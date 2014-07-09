@@ -1,3 +1,20 @@
+/*
+    Takyka's heat pump controller
+    Copyright (C) 2014  Balazs Takacs e-mail: takyka@freemail.hu
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License version 3 as published by
+    the Free Software Foundation.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+*/
+
 float r407cBubble[]PROGMEM ={
   -44.26,-42.26,-40.39,-38.65,-37.01,-35.45,-33.98,-32.57,-31.23,-29.94,-28.71,-27.52,-26.38,-25.27,
   -24.21,-23.17,-22.17,-21.2,-20.25,-19.33,-18.43,-17.56,-16.71,-15.88,-15.06,-14.27,-13.49,-12.73,-11.98,-11.25,-10.54,-9.83,-9.14,
